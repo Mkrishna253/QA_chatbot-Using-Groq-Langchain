@@ -11,7 +11,7 @@ Chatbot using Groq LLMs, langchain framework and Streamlit for an interactive us
 
 ## Our interface and sample output
 
-<img src="output_image/sample_chat" width="400"/>
+<img src="output_image/sample_chat">
 
 ## Tech Stack
 Streamlit • Python • LangChain • Groq
