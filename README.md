@@ -9,11 +9,9 @@ Chatbot using Groq LLMs, langchain framework and Streamlit for an interactive us
 - Stores history with session states.
 - High speed and accurate response
 
-## Screenshots
+## Our interface and sample output
 
-| Upload Resume |   | Extracted Information |
-|------------|---|---------------|
-| <img src="screenshots/upload_resume.png" width="400"/> |   | <img src="screenshots/extracted_information.png" width="400"/> |
+<img src="output_image/sample_chat" width="400"/>
 
 ## Tech Stack
 Streamlit • Python • LangChain • Groq
